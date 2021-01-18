@@ -4,6 +4,7 @@ my crashing server which needs help
 
 This repository contains files that were taken from Sir's Competitive Rework + brxce's hardcoop
 
-ANY help would be appreciated
+It was meant to be designed for WINDOWS, yet it still crashes
 
+ANY help would be appreciated
 
