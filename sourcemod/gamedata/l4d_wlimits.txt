@@ -7,9 +7,8 @@
 			"CWeaponAmmoSpawn_Use"
 			{
 				"library" "server"
+				"windows" "\x55\x8B\xEC\x51\x53\x8B\x5D\x08\x85\xDB" 
 				"linux"   "@_ZN16CWeaponAmmoSpawn3UseEP11CBaseEntityS1_8USE_TYPEf"
-				"windows" "\x55\x8B\xEC\x51\x53\x8B\x5D\x08\x85"
-				/* 55 8B EC 51 53 8B 5D 08 85 */
 			}
 		}
 	}
