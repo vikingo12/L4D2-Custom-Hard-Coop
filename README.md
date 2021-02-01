@@ -6,3 +6,6 @@ THIS BUILD IS NOT STABLE AND CRASHES
 
 ANY help would be appreciated
 
+More information:It loads fine and plays too, crashes occur on level changes
+
+I was testing on Parish, it crashes after completing 1st map/2nd map (mostly first)
