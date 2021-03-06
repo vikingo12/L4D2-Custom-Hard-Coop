@@ -1,0 +1,50 @@
+// Credits: 
+//	https://forums.alliedmods.net/showthread.php?t=317662
+//	https://forums.alliedmods.net/showthread.php?p=2686908
+
+"Games"
+{
+	"left4dead2"
+	{
+		"Addresses"
+		{
+			"CTerrorGun::ShouldUnzoom"
+			{
+				"linux"
+				{
+					"signature" "CTerrorGun::ShouldUnzoom"
+				}
+
+				"windows"
+				{
+					"signature" "CTerrorGun::ShouldUnzoom"
+				}
+			}
+		}
+
+		"Offsets"
+		{
+			"CTerrorGun::CycleZoom"
+			{
+				"windows"	"395"
+				"linux"		"396"
+			}
+
+			"zoom_offset"
+			{
+				"windows"	"14"
+				"linux"		"55"
+			}
+		}
+
+		"Signatures" 
+		{
+			"CTerrorGun::ShouldUnzoom"
+			{
+				"library"	"server"
+				"windows"	"\x56\x57\x8B\xF9\xE8\x2A\x2A\x2A\x2A\x8B\xF0\x85\xF6\x75\x2A\x5F\x32\xC0\x5E\xC3\x8B\xCE"
+				"linux"	"@_ZNK10CTerrorGun12ShouldUnzoomEv"
+			}
+		}
+	}
+}
