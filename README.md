@@ -22,6 +22,8 @@ Silvers(gameplay fixes/improvements)
 
 AtomicStryker(gameplay fixes/improvements) 
 
+Visor(plugins) https://github.com/Attano/L4D2-Competitive-Framework
+
 I took plugins/files and created a server based on their work
 
 I didn't ask if I could use plugins/files from their repositories but if someone wants me to remove their plugins/files, make a request.
