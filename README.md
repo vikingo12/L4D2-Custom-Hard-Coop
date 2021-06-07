@@ -6,7 +6,7 @@ SirPlease(most of the plugins/improvements) https://github.com/SirPlease/L4D2-Co
 
 brxce(AI fixes/improvements) https://github.com/brxce/Gauntlet 
 
-Tabbernaut(l4d2_playstats)
+Tabbernaut(l4d2_playstats, sounds_blocker)
 
 MatthewClair/CanadaRox(l4d_weapon_limtis)
 
